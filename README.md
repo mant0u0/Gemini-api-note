@@ -1,13 +1,15 @@
 # 如何使用 Google Gemini API
 
-1.  前往網站  
+1.  前往網站
+
     Google AI for Developers ：https://ai.google.dev/gemini-api
 
     點選「獲取 API 金鑰」的按鈕，使用 Google 帳號登入。初次使用可能會需要一些帳號設定～
 
     ![前往網站](Image/image_01.png)
 
-2.  建立新的金鑰  
+2.  建立新的金鑰
+
     帳號登入後，會到「Get API keys」的頁面，點選「Create API key」按鈕，建立金鑰。
     ![建立新的金鑰](Image/image_02.png)
 
