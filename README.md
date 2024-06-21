@@ -57,6 +57,11 @@
     如果不想使用 Google AI Python SDK，想直接發送請求給 Gemini
     也可以參考專案下的這個 [檔案](Example/requests-post.py)。
 
+    一樣以 Python 作為範例，初次使用 requests 時，需先安裝 requests 套件，於終端機輸入以下指令進行安裝。
+    ```
+    $ pip install requests
+    ```
+
     不同的語言模型，有著不同的網址，依照自己的需求使用：
 
     - gemini-1.0-pro：https://generativelanguage.googleapis.com/v1/models/gemini-1.0-pro:generateContent?key={API_KEY}
@@ -65,3 +70,7 @@
     - gemini-1.0-pro (v1beta)：https://generativelanguage.googleapis.com/v1beta/models/gemini-1.0-pro:generateContent?key={API_KEY}
     - gemini-1.5-flash (v1beta)：https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={API_KEY}
     - gemini-1.5-pro (v1beta)：https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key={API_KEY}
+
+
+
+
